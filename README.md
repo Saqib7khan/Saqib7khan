@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqib Khan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/developer-gif-23414225">
+<img align="right" alt="coding" width="380" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
